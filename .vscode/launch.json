@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MancalaApplication<mancala>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.bol.mancala.MancalaApplication",
+            "projectName": "mancala",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MancalaApplication<mancala>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.springboot.mancala.MancalaApplication",
+            "projectName": "mancala",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

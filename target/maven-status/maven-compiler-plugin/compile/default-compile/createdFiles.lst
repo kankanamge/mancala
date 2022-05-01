@@ -1,0 +1,9 @@
+com\bol\mancala\model\Pit.class
+com\bol\mancala\MancalaApplication.class
+com\bol\mancala\controller\MancalaController.class
+com\bol\mancala\model\GameState.class
+com\bol\mancala\service\MancalaBoardService.class
+com\bol\mancala\model\Player.class
+com\bol\mancala\model\MancalaStore.class
+com\bol\mancala\service\MancalaGameService.class
+com\bol\mancala\model\GameContainer.class
